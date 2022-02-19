@@ -12,5 +12,7 @@ public class MySpringBootApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MySpringBootApplication.class);//运行SpringBoot的引导类
+
+        //测试git远程协作功能
     }
 }
